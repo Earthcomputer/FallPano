@@ -20,6 +20,7 @@
   ],
   "depends": {
     "fabricloader": ">=0.10.1+build.209",
-    "minecraft": "1.16.3"
+    "minecraft": "1.16.3",
+    "fabric-resource-loader-v0": "0.2.2+"
   }
 }

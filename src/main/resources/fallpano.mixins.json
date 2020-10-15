@@ -4,6 +4,8 @@
   "package": "net.earthcomputer.fallpano.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
+    "SplashTextResourceSupplierMixin",
+    "TitleScreenMixin"
   ],
   "client": [
   ],
