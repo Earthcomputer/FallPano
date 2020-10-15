@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "fallpano",
+  "version": "${version}",
+  "name": "FallPano",
+  "description": "Adds a fall-themed main menu panorama",
+  "authors": [
+    "Earthcomputer"
+  ],
+  "contact": {
+    "website": "https://earthcomputer.net",
+    "repo": "https://github.com/Earthcomputer/FallPano"
+  },
+  "license": "MIT",
+  "icon": "assets/fallpano/icon.png",
+  "environment": "client",
+  "entrypoints": {},
+  "mixins": [
+    "fallpano.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.10.1+build.209",
+    "minecraft": "1.16.3"
+  }
+}
